@@ -16,6 +16,7 @@ geopy = "*"
 scipy = "*"
 tqdm = "*"
 us = "*"
+seaborn = "*"
 
 [dev-packages]
 
