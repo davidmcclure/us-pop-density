@@ -15,6 +15,7 @@ descartes = "*"
 geopy = "*"
 scipy = "*"
 tqdm = "*"
+us = "*"
 
 [dev-packages]
 
