@@ -20,6 +20,7 @@ seaborn = "*"
 litecoder = {path = "./data/litecoder-0.1.1-py3-none-any.whl"}
 boltons = "*"
 altair = "*"
+rtree = "*"
 
 [dev-packages]
 
